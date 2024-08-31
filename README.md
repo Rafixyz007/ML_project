@@ -4,9 +4,9 @@
 
 ## Software and account Requirement.
 
-Github Account
-Heroku Account
-VS Code IDE
-GIT cli
-GIT Documentation
+[Github Account](https://github.com/)
+[Heroku Account](https://dashboard.heroku.com/login)
+[VS Code IDE](https://code.visualstudio.com/download)
+[GIT cli](https://git-scm.com/downloads)
+[GIT Documentation](https://git-scm.com/docs/gittutorial)
 
